@@ -30,7 +30,7 @@ What variable(s) are neither targets nor features, and should be removed from th
 
 # Compiling, Training, and Evaluating the Model
 For our input layer, we must add the number of input features equal to the number of variables in our feature DataFrame. (43 inputs) 
-In our hidden layers, our deep learning model structure will be slightly different—we'll add two hidden layers with only a few neurons in each layer. To create the second hidden layer, we'll add another Keras Dense class while defining our model. All of our hidden layers will use the relu activation function to identify nonlinear characteristics from the input values. (80 neurons in layer 1 and 30 in layer 2.) 
+In our hidden layers, our deep learning model structure will be slightly different—we'll add two hidden layers with neurons in each layer. To create the second hidden layer, we'll add another Keras Dense class while defining our model. All of our hidden layers will use the relu activation function to identify nonlinear characteristics from the input values. (80 neurons in layer 1 and 30 in layer 2.) 
 In the output layer, we'll use the same parameters from our basic neural network including the sigmoid activation function. The sigmoid activation function will help us predict the probability that the money was used effectively.
 
 # Results 
