@@ -54,5 +54,5 @@ Adding or reducing the number of epochs to the training regimen. I increased the
 
 ![Optimization](https://github.com/cfusco77/Neural_Network_Charity_Analysis/blob/main/Resources/Optimization3.png) 
 
-# Reccomendations for enhancement
+# Recommendations for enhancement
 While it may not always be finanically or logistically possible adding more training data might improve the accuracy of our model. The first way to increase training data is to collect more data, using the same tactics as the primary data, to add to our input dataset. 
