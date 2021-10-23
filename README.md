@@ -61,4 +61,4 @@ Adding or reducing the number of epochs to the training regimen. Each epoch is a
 Despite making three atempts at optimizations, I was unable to clear the 75% accuracy threshold.  When a neural network model does not meet performance expectations, it is usually due to one of two causes: inadequate or inappropriate model design for a given dataset, or insufficient or ineffective training data.
 
 # Recommendations for enhancement
-While it may not always be finanically or logistically possible adding more training data might improve the accuracy of our model. The first way to increase training data is to collect more data, using the same tactics as the primary data, to add to our input dataset. 
+While it may not always be finanically or logistically possibly adding more training data might improve the accuracy of our model. The first way to increase training data is to collect more data, using the same tactics as the primary data, to add to our input dataset. 
