@@ -47,7 +47,8 @@ Adding more neurons to a hidden layer. Some of the reason we might chose to add 
 - There is a distributed effort to find optimal weights—faster.
 - Each neuron can focus on different features to identify nonlinear effects—smarter.
 - It is less likely to fixate on complex variables—more robust.
-Instead of choosing 80 nerons for the first hidden layer (roughly 2x the number of inputs), I chose 120 neurons (roughly 3x the number of inputs). 
+
+Instead of choosing 80 neurons for the first hidden layer (roughly 2x the number of inputs), I chose 120 neurons (roughly 3x the number of inputs). 
 
 ![Optimization2](https://github.com/cfusco77/Neural_Network_Charity_Analysis/blob/main/Resources/Optimization2.png) 
 
